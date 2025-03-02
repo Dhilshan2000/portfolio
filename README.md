@@ -1,6 +1,6 @@
 # Aspiring Data Scientist & Machine Learning Engineer - Intern
 
-### Summary
+## Summary
 Highly motivated Data Science professional with a robust foundation in machine learning, data analysis, and
 statistical modeling. Proficient in Python, SQL, and key ML libraries such as TensorFlow, and Scikit learn. Skilled in
 Data Preprocessing, Feature Engineering, and Developing Predictive Models. Experienced in building Data Pipelines
@@ -9,22 +9,22 @@ Power BI, Tableau and various Big Data technologies. Eager to apply my skills in
 capabilities, and contribute to impactful, data-driven projects. Seeking opportunities to gain hands-on experience
 and drive innovation through Analytics and Machine Learning.
 
-### Technical Skills
-- ## Machine Learning:
+## Technical Skills
+- ### Machine Learning:
   Regression, Classification, Clustering, Neural Networks, Deep Learning, Reinforcement Learning, Autoencoders
-- ## Programming Languages:
+- ### Programming Languages:
   Python, R, SQL, HTML, CSS, Bash/Shell
-- ##  ML Libraries:
+- ###  ML Libraries:
   TensorFlow, Keras, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
 - ## Data Analysis:
   Data Cleaning, Feature Engineering, EDA, Model Training, Hyperparameter Tuning, Evaluation Metrics
-- ## Big Data Technologies:
+- ### Big Data Technologies:
   Hadoop, PySpark
 - ## Operating Systems:
   Linux (Command Line Proficiency)
-- ## Tools:
+- ### Tools:
   Jupyter Notebook, VS Code, Google Colab, Git/GitHub, Power BI, Tableau & Excel
 - ## Databases:
   MySQL, MongoDB
-- ## Web Development & Visualization:
+- ### Web Development & Visualization:
   Flask, Streamlit
