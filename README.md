@@ -28,3 +28,10 @@ and drive innovation through Analytics and Machine Learning.
   MySQL, MongoDB
 - ### Web Development & Visualization:
   Flask, Streamlit
+
+## SOFT SKILLS 
+- Analytical & Critical Thinking                                                - Collaboration & Teamwork
+- Problem-Solving                                                               - Time Management
+- Attention to Detail                                                           - Presentation & Visualization Skills
+- Strong Collaboration                                                          - Critical Thinking
+- Adaptability & Flexibility                                                    - Resilience & Perseverance
