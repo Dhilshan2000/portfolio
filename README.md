@@ -56,6 +56,7 @@ and drive innovation through Analytics and Machine Learning.
 ### Tech stack :
 - Flask, Bootstrap, Pandas, NumPy, ML Models, Joblib, HTML/CSS
 
+
 - ### [Multiple Disease Prediction WebApp](https://github.com/Dhilshan2000/Multiple-Disease-Prediction-WebApp-System-with-Streamlit-and-Python.git)
 - This project is a Multiple Disease Prediction System built using Python, Streamlit, and Machine Learning
   models. It provides an easy-to-use web interface for predicting the likelihood of three different diseases:
@@ -67,6 +68,7 @@ and drive innovation through Analytics and Machine Learning.
   delivering an innovative solution for predicting stroke.
 ### Tech stack :
 - Streamlit, Pickle, Pandas, NumPy, ML Models
+
 
 - ### [Fruits and Vegetables Image Recognition WebApp](https://github.com/Dhilshan2000/Fruits-and-Vegetables-Image-Recognition.git)
 - Developed an image classification system to recognize different fruits and vegetables using a deep learning
