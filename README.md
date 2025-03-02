@@ -94,14 +94,12 @@ For more Projects and Information available at : [github.com/Dhilshan](https://g
 ## References
 
 1. **Mrs. Akshila Anurangi**  
-   Senior Manager – Senior Data Scientist, Digital Innovations
-   Softlogic Life Insurance PLC  
+   Senior Manager – Senior Data Scientist, Digital Innovations - Softlogic Life Insurance PLC  
    Email: [akshila.anurangi@softlogiclife.lk](mailto:akshila.anurangi@softlogiclife.lk)  
    Phone: +94 71 615 6811
 
 3. **Dr. Achala Pallegedara**  
-   Senior Lecturer, Faculty of Engineering
-   University of Peradeniya  
+   Senior Lecturer, Faculty of Engineering - University of Peradeniya  
    Email: [achala@eng.pdn.ac.lk](mailto:achala@eng.pdn.ac.lk)  
    Phone: +94 71 893 1975
 
