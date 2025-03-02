@@ -30,8 +30,6 @@ and drive innovation through Analytics and Machine Learning.
   Flask, Streamlit
 
 ## SOFT SKILLS 
-- Analytical & Critical Thinking, Problem-Solving, Time Management
-  
-- Attention to Detail, Presentation & Visualization Skills, Strong Collaboration
-  
-- Critical Thinking, Creative Mindset, Adaptability & Flexibility, Resilience & Perseverance
+- Analytical & Critical Thinking, Problem-Solving, Time Management,
+  Attention to Detail, Presentation & Visualization Skills, Strong Collaboration,
+  Critical Thinking, Creative Mindset, Adaptability & Flexibility, Resilience & Perseverance
