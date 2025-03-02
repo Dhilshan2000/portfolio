@@ -86,11 +86,11 @@ and drive innovation through Analytics and Machine Learning.
 For more Projects and Information available at : [github.com/Dhilshan](https://github.com/Dhilshan2000?tab=repositories)
 
 ### CERTIFICATIONS
-- [Generative AI Fundamentals | Databricks](https://credentials.databricks.com/ed12614a-6b4c-4de7-8966-eb7334133183#acc.tpJ8wVcg)
-- [Data Science Orientation | IBM](https://www.credly.com/badges/7df1384f-dbf6-4f45-97e7-a86dbd43c699/linked_in_profile)
-- [Introduction to Generative AI | Google](https://www.cloudskillsboost.google/public_profiles/8a13e309-1831-46e2-8ff3-033718035ba5/badges/11827153?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
-- [CNNs with TensorFlow: Basics of Machine Learning | Coursera](https://www.coursera.org/account/accomplishments/certificate/E2PT6ZCTJYRY)
-- [Exploratory Data Analysis for Machine Learning | IBM](https://www.coursera.org/account/accomplishments/certificate/QWHXD9KC3Y62)
+-  [Generative AI Fundamentals | Databricks](https://credentials.databricks.com/ed12614a-6b4c-4de7-8966-eb7334133183#acc.tpJ8wVcg) 
+-  [Data Science Orientation | IBM](https://www.credly.com/badges/7df1384f-dbf6-4f45-97e7-a86dbd43c699/linked_in_profile) 
+-  [Introduction to Generative AI | Google](https://www.cloudskillsboost.google/public_profiles/8a13e309-1831-46e2-8ff3-033718035ba5/badges/11827153?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) 
+-  [CNNs with TensorFlow: Basics of Machine Learning | Coursera](https://www.coursera.org/account/accomplishments/certificate/E2PT6ZCTJYRY) 
+-  [Exploratory Data Analysis for Machine Learning | IBM](https://www.coursera.org/account/accomplishments/certificate/QWHXD9KC3Y62) 
 
 ### REFERENCES
 
