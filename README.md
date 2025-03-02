@@ -53,6 +53,7 @@ and drive innovation through Analytics and Machine Learning.
 - The WebApp displays whether the user is "Likely" or "Not Likely" to have a stroke.
 - The project showcases proficiency in Machine Learning, Frontend Development, and Backend Processing,
   delivering an innovative solution for predicting stroke with a 95% accuracy.
+  
 #### Tech stack :
 - Flask, Bootstrap, Pandas, NumPy, ML Models, Joblib, HTML/CSS
 
@@ -66,6 +67,7 @@ and drive innovation through Analytics and Machine Learning.
   interface.
 - The project showcases proficiency in Machine Learning, Frontend Development, and Backend Processing,
   delivering an innovative solution for predicting stroke.
+  
 #### Tech stack :
 - Streamlit, Pickle, Pandas, NumPy, ML Models
 
@@ -77,17 +79,18 @@ and drive innovation through Analytics and Machine Learning.
   vegetable) using image pre-processing and classification with a 79% Accuracy.
 - Developed an interactive web application using Streamlit, where users can upload images and get predictions
   for the type of fruit or vegetable.
+  
 #### Tech stack :
 - Streamlit, Streamlit, .H5, NumPy, ML Models
   
 For more Projects and Information available at : [github.com/Dhilshan](https://github.com/Dhilshan2000?tab=repositories)
 
 ### CERTIFICATIONS
-- [Generative AI Fundamentals | Databricks](https://credentials.databricks.com/ed12614a-6b4c-4de7-8966-eb7334133183#acc.tpJ8wVcg)
-- [Data Science Orientation | IBM](https://www.credly.com/badges/7df1384f-dbf6-4f45-97e7-a86dbd43c699/linked_in_profile) 
-- [Introduction to Generative AI | Google](https://www.cloudskillsboost.google/public_profiles/8a13e309-1831-46e2-8ff3-033718035ba5/badges/11827153?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
-- [CNNs with TensorFlow : Basics of Machine Learning |  Coursera](https://www.coursera.org/account/accomplishments/certificate/E2PT6ZCTJYRY)
-- [Exploratory Data Analysis for Machine Learning | IBM](https://www.coursera.org/account/accomplishments/certificate/QWHXD9KC3Y62) 
+- ![Generative AI Fundamentals | Databricks](https://credentials.databricks.com/ed12614a-6b4c-4de7-8966-eb7334133183#acc.tpJ8wVcg)
+- ![Data Science Orientation | IBM](https://www.credly.com/badges/7df1384f-dbf6-4f45-97e7-a86dbd43c699/linked_in_profile) 
+- ![Introduction to Generative AI | Google](https://www.cloudskillsboost.google/public_profiles/8a13e309-1831-46e2-8ff3-033718035ba5/badges/11827153?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
+- ![CNNs with TensorFlow : Basics of Machine Learning |  Coursera](https://www.coursera.org/account/accomplishments/certificate/E2PT6ZCTJYRY)
+- ![Exploratory Data Analysis for Machine Learning | IBM](https://www.coursera.org/account/accomplishments/certificate/QWHXD9KC3Y62) 
 
 ### REFERENCES
 
