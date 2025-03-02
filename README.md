@@ -45,7 +45,7 @@ and drive innovation through Analytics and Machine Learning.
   National Innovation Centre (NIBM), Colombo, Sri Lanka
 
 ## PROJECTS
-- ### [Brain Stroke Prediction WebApp](https://github.com/Dhilshan2000/Brain-Stroke-Prediction-Using-Machine-Learning-with-Flask-and-Python.git)
+### [Brain Stroke Prediction WebApp](https://github.com/Dhilshan2000/Brain-Stroke-Prediction-Using-Machine-Learning-with-Flask-and-Python.git)
 - This project is a Flask-based web application designed to predict the likelihood of a stroke in individuals using
   machine learning.
 - The model uses various health-related inputs such as age, gender, blood glucose level, BMI, and lifestyle
@@ -53,11 +53,11 @@ and drive innovation through Analytics and Machine Learning.
 - The WebApp displays whether the user is "Likely" or "Not Likely" to have a stroke.
 - The project showcases proficiency in Machine Learning, Frontend Development, and Backend Processing,
   delivering an innovative solution for predicting stroke with a 95% accuracy.
-### Tech stack :
+# Tech stack :
 - Flask, Bootstrap, Pandas, NumPy, ML Models, Joblib, HTML/CSS
 
 
-- ### [Multiple Disease Prediction WebApp](https://github.com/Dhilshan2000/Multiple-Disease-Prediction-WebApp-System-with-Streamlit-and-Python.git)
+### [Multiple Disease Prediction WebApp](https://github.com/Dhilshan2000/Multiple-Disease-Prediction-WebApp-System-with-Streamlit-and-Python.git)
 - This project is a Multiple Disease Prediction System built using Python, Streamlit, and Machine Learning
   models. It provides an easy-to-use web interface for predicting the likelihood of three different diseases:
   Diabetes : 77% Accuracy , Heart Disease : 82% Accuracy & Parkinson's Disease : 88% Accuracy.
@@ -66,18 +66,18 @@ and drive innovation through Analytics and Machine Learning.
   interface.
 - The project showcases proficiency in Machine Learning, Frontend Development, and Backend Processing,
   delivering an innovative solution for predicting stroke.
-### Tech stack :
+# Tech stack :
 - Streamlit, Pickle, Pandas, NumPy, ML Models
 
 
-- ### [Fruits and Vegetables Image Recognition WebApp](https://github.com/Dhilshan2000/Fruits-and-Vegetables-Image-Recognition.git)
+### [Fruits and Vegetables Image Recognition WebApp](https://github.com/Dhilshan2000/Fruits-and-Vegetables-Image-Recognition.git)
 - Developed an image classification system to recognize different fruits and vegetables using a deep learning
   model built with TensorFlow, integrated with a user-friendly web interface built using Streamlit.
 - The model processes the uploaded image, performs inference, and predicts the most likely category (fruit or
   vegetable) using image pre-processing and classification with a 79% Accuracy.
 - Developed an interactive web application using Streamlit, where users can upload images and get predictions
   for the type of fruit or vegetable.
-### Tech stack :
+# Tech stack :
 - Streamlit, Streamlit, .H5, NumPy, ML Models
 For more Projects and Information available at : [github.com/Dhilshan](https://github.com/Dhilshan2000?tab=repositories)
 
