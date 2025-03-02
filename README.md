@@ -77,8 +77,9 @@ and drive innovation through Analytics and Machine Learning.
   vegetable) using image pre-processing and classification with a 79% Accuracy.
 - Developed an interactive web application using Streamlit, where users can upload images and get predictions
   for the type of fruit or vegetable.
-# Tech stack :
+#### Tech stack :
 - Streamlit, Streamlit, .H5, NumPy, ML Models
+  
 For more Projects and Information available at : [github.com/Dhilshan](https://github.com/Dhilshan2000?tab=repositories)
 
 ### CERTIFICATIONS
