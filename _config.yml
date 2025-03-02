@@ -1,6 +1,6 @@
 title: Ariwalagan Dhilshan
 logo: assets/img/Ariwalagan_Dhilshan02.png
-description: hi
-show_downloads: True 
+#description: 
+show_downloads: true 
 theme: jekyll-theme-minimal
 
