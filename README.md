@@ -89,4 +89,15 @@ For more Projects and Information available at : [github.com/Dhilshan](https://g
 - [CNNs with TensorFlow : Basics of Machine Learning |  Coursera](https://www.coursera.org/account/accomplishments/certificate/E2PT6ZCTJYRY)
 - [Exploratory Data Analysis for Machine Learning | IBM](https://www.coursera.org/account/accomplishments/certificate/QWHXD9KC3Y62) 
 
+### REFERENCES
+
+#### Mrs. Akshila Anurangi 
+Senior Manager – Senior Data Scientist 
+Digital Innovations, Softlogic Life Insurance PLC 
+akshila.anurangi@softlogiclife.lk | +94 71 615 6811
+
+#### Dr. Achala Pallegedara
+Senior Lecturer - Faculty of Engineering
+University of Peradeniya 
+achala@eng.pdn.ac.lk | +94 71 893 1975
 
