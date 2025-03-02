@@ -77,6 +77,6 @@ and drive innovation through Analytics and Machine Learning.
   for the type of fruit or vegetable.
 ### Tech stack :
 - Streamlit, Streamlit, .H5, NumPy, ML Models
-For more Projects and Information available at : github.com/Dhilshan
+For more Projects and Information available at : [github.com/Dhilshan](https://github.com/Dhilshan2000?tab=repositories) 
 
 
