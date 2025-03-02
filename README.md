@@ -45,7 +45,7 @@ and drive innovation through Analytics and Machine Learning.
   National Innovation Centre (NIBM), Colombo, Sri Lanka
 
 ## PROJECTS
-- [### Brain Stroke Prediction WebApp](https://github.com/Dhilshan2000/Brain-Stroke-Prediction-Using-Machine-Learning-with-Flask-and-Python.git)
+- ### [Brain Stroke Prediction WebApp](https://github.com/Dhilshan2000/Brain-Stroke-Prediction-Using-Machine-Learning-with-Flask-and-Python.git)
 - This project is a Flask-based web application designed to predict the likelihood of a stroke in individuals using
   machine learning.
 - The model uses various health-related inputs such as age, gender, blood glucose level, BMI, and lifestyle
@@ -56,7 +56,7 @@ and drive innovation through Analytics and Machine Learning.
 ### Tech stack :
 - Flask, Bootstrap, Pandas, NumPy, ML Models, Joblib, HTML/CSS
 
-- [### Multiple Disease Prediction WebApp](https://github.com/Dhilshan2000/Multiple-Disease-Prediction-WebApp-System-with-Streamlit-and-Python.git)
+- ### [Multiple Disease Prediction WebApp](https://github.com/Dhilshan2000/Multiple-Disease-Prediction-WebApp-System-with-Streamlit-and-Python.git)
 - This project is a Multiple Disease Prediction System built using Python, Streamlit, and Machine Learning
   models. It provides an easy-to-use web interface for predicting the likelihood of three different diseases:
   Diabetes : 77% Accuracy , Heart Disease : 82% Accuracy & Parkinson's Disease : 88% Accuracy.
@@ -68,7 +68,7 @@ and drive innovation through Analytics and Machine Learning.
 ### Tech stack :
 - Streamlit, Pickle, Pandas, NumPy, ML Models
 
-- [### Fruits and Vegetables Image Recognition WebApp](https://github.com/Dhilshan2000/Fruits-and-Vegetables-Image-Recognition.git)
+- ### [Fruits and Vegetables Image Recognition WebApp](https://github.com/Dhilshan2000/Fruits-and-Vegetables-Image-Recognition.git)
 - Developed an image classification system to recognize different fruits and vegetables using a deep learning
   model built with TensorFlow, integrated with a user-friendly web interface built using Streamlit.
 - The model processes the uploaded image, performs inference, and predicts the most likely category (fruit or
