@@ -16,15 +16,15 @@ and drive innovation through Analytics and Machine Learning.
   Python, R, SQL, HTML, CSS, Bash/Shell
 - ###  ML Libraries:
   TensorFlow, Keras, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
-- ## Data Analysis:
+- ### Data Analysis:
   Data Cleaning, Feature Engineering, EDA, Model Training, Hyperparameter Tuning, Evaluation Metrics
 - ### Big Data Technologies:
   Hadoop, PySpark
-- ## Operating Systems:
+- ### Operating Systems:
   Linux (Command Line Proficiency)
 - ### Tools:
   Jupyter Notebook, VS Code, Google Colab, Git/GitHub, Power BI, Tableau & Excel
-- ## Databases:
+- ### Databases:
   MySQL, MongoDB
 - ### Web Development & Visualization:
   Flask, Streamlit
@@ -33,3 +33,14 @@ and drive innovation through Analytics and Machine Learning.
 - Analytical & Critical Thinking, Problem-Solving, Time Management,
   Attention to Detail, Presentation & Visualization Skills, Strong Collaboration,
   Critical Thinking, Creative Mindset, Adaptability & Flexibility, Resilience & Perseverance
+
+## EDUCATION
+- ### BSc (Hons) in Data Science | Expected Graduation: December, 2025
+  National Innovation Centre (NIBM), Colombo, Sri Lanka (Affiliated with Coventry University, UK)
+- ### DevOps Foundation Program | 2024
+  NetXperts Training Center, Negombo, Sri Lanka
+- ### Higher National Diploma in Data Science | 2023 - 2024
+  National Innovation Centre (NIBM), Colombo, Sri Lanka
+- ### Advanced Diploma in Data Science | 2022
+  National Innovation Centre (NIBM), Colombo, Sri Lanka
+
