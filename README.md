@@ -53,7 +53,7 @@ and drive innovation through Analytics and Machine Learning.
 - The WebApp displays whether the user is "Likely" or "Not Likely" to have a stroke.
 - The project showcases proficiency in Machine Learning, Frontend Development, and Backend Processing,
   delivering an innovative solution for predicting stroke with a 95% accuracy.
-# Tech stack :
+#### Tech stack :
 - Flask, Bootstrap, Pandas, NumPy, ML Models, Joblib, HTML/CSS
 
 
@@ -66,7 +66,7 @@ and drive innovation through Analytics and Machine Learning.
   interface.
 - The project showcases proficiency in Machine Learning, Frontend Development, and Backend Processing,
   delivering an innovative solution for predicting stroke.
-# Tech stack :
+#### Tech stack :
 - Streamlit, Pickle, Pandas, NumPy, ML Models
 
 
