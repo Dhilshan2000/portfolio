@@ -91,8 +91,6 @@ For more Projects and Information available at : [github.com/Dhilshan](https://g
 
 ### REFERENCES
 
-## References
-
 1. **Mrs. Akshila Anurangi**  
    Senior Manager – Senior Data Scientist, Digital Innovations - Softlogic Life Insurance PLC  
    Email: [akshila.anurangi@softlogiclife.lk](mailto:akshila.anurangi@softlogiclife.lk)  
