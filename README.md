@@ -2,6 +2,13 @@
   <img src="assets/img/Ariwalagan_Dhilshan02.png" width="180" style="border-radius: 50%;" />
 </p>
 
+<h1 align="center">Associate AI/ML Engineer</h1>
+
+<p align="center">
+📧 <a href="mailto:dhilshanroney@gmail.com">dhilshanroney@gmail.com</a> | 📞 +94 76 332 2617 | 🏠 Colombo, Sri Lanka<br>
+ℹ️ <a href="https://www.linkedin.com/in/ariwalagan-dhilshan-406bb6225">LinkedIn</a> | 🌐 <a href="https://dhilshan2000.github.io/portfolio/">Portfolio</a> | 👾 <a href="https://github.com/Dhilshan2000">GitHub</a>
+</p>
+
 # Associate AI/ML Engineer
 
 📧 [dhilshanroney@gmail.com](mailto:dhilshanroney@gmail.com) | 📞 +94 76 332 2617 | 🏠 Colombo, Sri Lanka  
@@ -172,7 +179,7 @@ For more projects and information: [github.com/Dhilshan2000](https://github.com/
 
 01. **Sanjeth Srikathirkamanathan**
     - Position: Assistant Director, AI Data & Digital – Acuity Analytics
-    - Tel: +94 11 235 6295 | Mobile: +94 75 571 8427
+    - Tel: +94 11 235 6295, Mobile: +94 75 571 8427
     - Email: [sanjeth.srikathirkamanathan@acuityanalytics.com](mailto:sanjeth.srikathirkamanathan@acuityanalytics.com)
     - Address: Level 32, West Tower, World Trade Center, Echelon Square 1, Colombo 01, Sri Lanka
 
