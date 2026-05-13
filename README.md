@@ -166,16 +166,14 @@ For more projects and information: [github.com/Dhilshan2000](https://github.com/
 
 ## REFERENCES
 
-01. ## Sanjeth Srikathirkamanathan
-    Assistant Director, AI Data & Digital – Acuity Analytics
-    Tel: +94 11 235 6295
-    Mobile: +94 75 571 8427
-    Email: [sanjeth.srikathirkamanathan@acuityanalytics.com](mailto:sanjeth.srikathirkamanathan@acuityanalytics.com)
-    Level 32, West Tower, World Trade Center, Echelon Square 1, Colombo 01, Sri Lanka
+01. **Sanjeth Srikathirkamanathan**
+    - Position: Assistant Director, AI Data & Digital – Acuity Analytics
+    - Tel: +94 11 235 6295, Mobile: +94 75 571 8427
+    - Email: [sanjeth.srikathirkamanathan@acuityanalytics.com](mailto:sanjeth.srikathirkamanathan@acuityanalytics.com)
+    - Address: Level 32, West Tower, World Trade Center, Echelon Square 1, Colombo 01, Sri Lanka
 
-02. ## Dhushaker Yogeswaran
-    Senior Systems Engineer – IFS R&D International
-    Mobile: +94 76 838 1848
-    Email: [dhushiymost@gmail.com](mailto:dhushiymost@gmail.com)
-    Level 18, Orion Towers, 736 Dr Danister De Silva Mawatha, Colombo 09, Sri Lanka
-
+02. **Dhushaker Yogeswaran**
+    - Position: Senior Systems Engineer – IFS R&D International
+    - Mobile: +94 76 838 1848
+    - Email: [dhushiymost@gmail.com](mailto:dhushiymost@gmail.com)
+    - Address: Level 18, Orion Towers, 736 Dr Danister De Silva Mawatha, Colombo 09, Sri Lanka
