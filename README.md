@@ -1,7 +1,7 @@
 # Associate AI/ML Engineer
 
 📧 [dhilshanroney@gmail.com](mailto:dhilshanroney@gmail.com) | 📞 +94 76 332 2617 | 🏠 Colombo, Sri Lanka  
-ℹ️ [LinkedIn](https://www.linkedin.com/in/ariwalagan-dhilshan-406bb6225) | 🌐 [Portfolio](https://dhilshan2000.github.io/portfolio/) | 👾 [GitHub](https://github.com/Dhilshan2000)
+ℹ️ [LinkedIn](www.linkedin.com/in/ariwalagan-dhilshan-406bb6225) | 🌐 [Portfolio](https://dhilshan2000.github.io/portfolio/) | 👾 [GitHub](https://github.com/Dhilshan2000)
 
 ---
 
