@@ -1,9 +1,7 @@
 title: Ariwalagan Dhilshan
-logo: assets/img/Ariwalagan_Dhilshan02.png
 description: "Associate AI/ML Engineer"
-github_repo_url: "https://dhilshan2000.github.io/portfolio/"
-show_downloads: false
-theme: jekyll-theme-minimal
+show_downloads: true
+theme: jekyll-theme-cayman
 
 
 
