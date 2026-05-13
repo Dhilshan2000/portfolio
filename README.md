@@ -63,7 +63,7 @@ Driven Data Science graduate with hands-on experience as an AI/ML Engineer Inter
 - Developed an AI system for detecting the status of cashier drawers (opened/closed) and integrated it with the Point of Sale system.
 - Detecting unrelated behavior between Customers and Cashiers to improve supermarket security.
 
-**Tech stack:** Python | OpenCV | TensorFlow | Keras | FastAPI | POS Integration | Ultralytics YOLO
+**Tech stack:** Python, OpenCv, TensorFlow, Keras, FastAPI, POS Integration, Ultralytics YOLO
 
 ---
 
@@ -74,7 +74,7 @@ Driven Data Science graduate with hands-on experience as an AI/ML Engineer Inter
 - Developed Customer Lifetime Value Prediction models to identify valuable customers.
 - Designed an AI YouTube Promotion Tool that optimizes video content delivery based on viewer behavior.
 
-**Tech stack:** Python | TensorFlow | Keras | FastAPI | GCP | NLP | Chatbot Development
+**Tech stack:** Python, TensorFlow, Keras, FastAPI, GCP, NLP, Chatbot Development
 
 ---
 
@@ -85,7 +85,7 @@ Driven Data Science graduate with hands-on experience as an AI/ML Engineer Inter
 - Built an AI-Based Threat Prediction system that identifies anomalies and predicts potential breaches.
 - Conducted Credential Leak Analysis to ensure data privacy.
 
-**Tech stack:** Python | Scikit-Learn | TensorFlow | Keras | OpenCV | GCP | NLP | FastAPI | Cloud Security Tools
+**Tech stack:** Python, Scikit-Learn, TensorFlow, Keras, OpenCV, GCP, NLP, FastAPI, Cloud Security Tools
 
 ---
 
@@ -93,7 +93,7 @@ Driven Data Science graduate with hands-on experience as an AI/ML Engineer Inter
 - Developed an OCR Grading System to compare answer sheets with marking scheme PDFs for subjects like Maths, English, and Science.
 - Automated grading of graphs, multiple-choice questions, written answers, and mathematical equations, reducing time spent on manual evaluations by **40%**.
 
-**Tech stack:** Python | OpenCV | Tesseract OCR | TensorFlow | PyTorch | HuggingFace
+**Tech stack:** Python, OpenCV, Tesseract OCR, TensorFlow, PyTorch, HuggingFace
 
 ---
 
@@ -102,21 +102,21 @@ Driven Data Science graduate with hands-on experience as an AI/ML Engineer Inter
 ### [Resume Categorization System](https://github.com/Dhilshan2000/Resume-Categorization-Using-Machine-Learning.git)
 - Developed a scalable Resume Categorization System to categorize resumes into specific job roles, preprocess text data, and create an interactive web app for users to upload and organize categorized resumes.
 
-**Tech stack:** Streamlit | Pandas | Pickle | ML Models | docx2pdf | pypdf
+**Tech stack:** Streamlit, Pandas, Pickle, ML Models, docx2pdf, pypdf
 
 ---
 
 ### [AI Web Scraper – Scrape ANYTHING](https://github.com/Dhilshan2000/AI-Web-Scraper_Use-AI-To-Scrape-ANYTHING.git)
 - Developed an AI-powered web scraper using Streamlit, Selenium, BeautifulSoup, and LangChain, enabling users to scrape and parse website content with dynamic AI-driven extraction based on custom queries.
 
-**Tech stack:** Python | Selenium | BeautifulSoup | LangChain | Ollama | ML Models
+**Tech stack:** Python, Selenium, BeautifulSoup, LangChain, Ollama, ML Models
 
 ---
 
 ### [Rainfall Prediction Using Python & MLFlow](https://github.com/Dhilshan2000/Rainfall-Prediction-Using-Python-MLFlow.git)
 - Developed a Rainfall Prediction application using Flask, MLflow, and machine learning models to predict rainfall based on meteorological data, providing real-time predictions via a user-friendly web interface.
 
-**Tech stack:** Flask | MLflow | Pandas | ML Models
+**Tech stack:** Flask, MLflow, Pandas, ML Models
 
 ---
 
@@ -125,14 +125,14 @@ Driven Data Science graduate with hands-on experience as an AI/ML Engineer Inter
 - Aggregated station-level forecasts to district-level risk classifiers for flood/drought predictions.
 - Implemented autonomous alerting with SHAP-based explanations for district-level decision-making.
 
-**Tech stack:** Python | Streamlit | ML Models
+**Tech stack:** Python, Streamlit, ML Models
 
 ---
 
 ### [Chat with Multiple PDFs – LangChain App](https://github.com/Dhilshan2000/Chat-with-Multiple-PDFs_LangChain-App-in-Python.git)
 - Developed a MultiPDF Chat App that uses a language model to answer questions based on the content of multiple PDFs, leveraging text extraction, chunking, and similarity matching.
 
-**Tech stack:** LangChain | FAISS | pypdf | OpenAI API | HuggingFace API | ML Models
+**Tech stack:** LangChain, FAISS, pypdf, OpenAI API, HuggingFace API, ML Models
 
 For more projects and information: [github.com/Dhilshan2000](https://github.com/Dhilshan2000?tab=repositories)
 
@@ -167,14 +167,14 @@ For more projects and information: [github.com/Dhilshan2000](https://github.com/
 ## REFERENCES
 
 01. **Sanjeth Srikathirkamanathan**
-    Assistant Director, AI Data & Digital – Acuity Analytics
-    Tel: +94 11 235 6295 | Mobile: +94 75 571 8427
-    Email: [sanjeth.srikathirkamanathan@acuityanalytics.com](mailto:sanjeth.srikathirkamanathan@acuityanalytics.com)
-    Level 32, West Tower, World Trade Center, Echelon Square 1, Colombo 01, Sri Lanka
+    - Assistant Director, AI Data & Digital – Acuity Analytics
+    - Tel: +94 11 235 6295 | Mobile: +94 75 571 8427
+    - Email: [sanjeth.srikathirkamanathan@acuityanalytics.com](mailto:sanjeth.srikathirkamanathan@acuityanalytics.com)
+    - Level 32, West Tower, World Trade Center, Echelon Square 1, Colombo 01, Sri Lanka
 
 02. **Dhushaker Yogeswaran**
-    Senior Systems Engineer – IFS R&D International
-    Mobile: +94 76 838 1848
-    Email: [dhushiymost@gmail.com](mailto:dhushiymost@gmail.com)
-    Level 18, Orion Towers, 736 Dr Danister De Silva Mawatha, Colombo 09, Sri Lanka
+    - Senior Systems Engineer – IFS R&D International
+    - Mobile: +94 76 838 1848
+    - Email: [dhushiymost@gmail.com](mailto:dhushiymost@gmail.com)
+    - Level 18, Orion Towers, 736 Dr Danister De Silva Mawatha, Colombo 09, Sri Lanka
 
