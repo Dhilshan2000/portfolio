@@ -1,108 +1,180 @@
-# Aspiring Data Scientist & Machine Learning Engineer - Intern
+# Associate AI/ML Engineer
 
-## SUMMARY
-Highly motivated Data Science professional with a robust foundation in machine learning, data analysis, and
-statistical modeling. Proficient in Python, SQL, and key ML libraries such as TensorFlow, and Scikit learn. Skilled in
-Data Preprocessing, Feature Engineering, and Developing Predictive Models. Experienced in building Data Pipelines
-and transforming raw data into actionable insights using advanced analytics techniques. Proficient in using tools like
-Power BI, Tableau and various Big Data technologies. Eager to apply my skills in real-world applications, enhance AI
-capabilities, and contribute to impactful, data-driven projects. Seeking opportunities to gain hands-on experience
-and drive innovation through Analytics and Machine Learning.
+📧 [dhilshanroney@gmail.com](mailto:dhilshanroney@gmail.com) | 📞 +94 76 332 2617 | 🏠 Colombo, Sri Lanka  
+[LinkedIn](www.linkedin.com/in/ariwalagan-dhilshan-406bb6225) | [Portfolio](https://dhilshan2000.github.io/portfolio/) | [GitHub](https://github.com/Dhilshan2000)
+
+---
+
+## PROFILE
+
+Driven Data Science graduate with hands-on experience as an AI/ML Engineer Intern. Passionate about applying AI and Machine Learning principles to real-world challenges, with a focus on delivering impactful, data-driven insights on time and within scope. Eager to contribute to innovative AI projects, collaborate with teams, and grow professionally in a forward-thinking organization dedicated to advancing Artificial Intelligence and Data Science.
+
+---
 
 ## TECHNICAL SKILLS
+
 - ### Machine Learning:
-  Regression, Classification, Clustering, Neural Networks, Deep Learning, Reinforcement Learning, Autoencoders
-- ### Programming Languages:
-  Python, R, SQL, HTML, CSS, Bash/Shell
-- ###  ML Libraries:
-  TensorFlow, Keras, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
+  Regression, Classification, Clustering, Neural Networks, Deep Learning, Reinforcement Learning, Autoencoders, Hyperparameter Tuning, Evaluation Metrics
+
+- ### AI Techniques:
+  LLM (Large Language Models), OpenAI API, LangChain
+
 - ### Data Analysis:
-  Data Cleaning, Feature Engineering, EDA, Model Training, Hyperparameter Tuning, Evaluation Metrics
-- ### Big Data Technologies:
-  Hadoop, PySpark
-- ### Operating Systems:
-  Linux (Command Line Proficiency)
-- ### Tools:
-  Jupyter Notebook, VS Code, Google Colab, Git/GitHub, Power BI, Tableau & Excel
+  Data Cleaning, Feature Engineering, EDA, Model Training
+
+- ### Languages & Libraries:
+  Python, R, SQL, HTML, CSS, Bash/Shell, TensorFlow, Keras, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Hadoop, PySpark, HuggingFace, FAISS
+
+- ### OS & Tools:
+  Linux, Jupyter Notebook, VS Code, Google Colab, Git/GitHub, Power BI, Tableau, Excel, Ollama, Selenium
+
 - ### Databases:
   MySQL, MongoDB
-- ### Web Development & Visualization:
-  Flask, Streamlit
 
-## SOFT SKILLS 
-- Analytical & Critical Thinking, Problem-Solving, Time Management,
-  Attention to Detail, Presentation & Visualization Skills, Strong Collaboration,
-  Critical Thinking, Creative Mindset, Adaptability & Flexibility, Resilience & Perseverance
+- ### Web Development & Visualization:
+  Flask, Streamlit, FastAPI
+
+---
+
+## WORK EXPERIENCE
+
+### AI/ML Engineer Intern | November 2025 – May 2026
+**FAITE – IT Services and IT Consulting, Jaffna**
+
+- Worked as part of the team to design and build AI/ML Architectures for end-to-end projects, ensuring scalability, efficiency, and alignment with business objectives.
+- Participated in Client Discussions to gather requirements and understand business needs, ensuring the development of tailored AI solutions that align with client expectations.
+- Collaborated with a team of AI Developers, Software Engineers, and UI/UX Design Engineers across all projects to design, build, and deploy AI/ML Architectures.
+- Developed and implemented Machine Learning Models to solve real-world problems, resulting in a **15% improvement** in prediction accuracy.
+- Worked on Neural Network Models for data classification, image recognition, and natural language processing, improving processing speed by **20%**.
+- Conducted Hyperparameter Tuning on multiple models, reducing training time by **25%** while maintaining model performance.
+- Applied FastAPI to build and deploy scalable machine learning APIs, reducing deployment time by **30%**.
+- Utilized Large Language Models for NLP tasks, enhancing text classification accuracy by **18%**.
+- Worked on developing Convolutional Neural Networks for image recognition tasks, improving classification accuracy by **22%**.
+- Designed and implemented Chatbot Solutions using NLP, improving user engagement by **30%**.
+- Led Data Cleaning and Feature Engineering processes, improving data quality and reducing model errors by **22%**.
+- Employed Evaluation Metrics to assess model performance, ensuring alignment with business objectives and KPIs.
+- Maintained Version Control in GitHub, ensuring smooth collaboration across a distributed team of 10+ developers.
+
+---
+
+## KEY PROJECTS
+
+### 01. CCTV Camera Detection for Supermarket (Canada)
+- Developed an AI system for detecting the status of cashier drawers (opened/closed) and integrated it with the Point of Sale system.
+- Detecting unrelated behavior between Customers and Cashiers to improve supermarket security.
+
+**Tech stack:** Python | OpenCV | TensorFlow | Keras | FastAPI | POS Integration | Ultralytics YOLO
+
+---
+
+### 02. AI Marketing (Canada)
+- Worked on Real-Time Customer Behavior Tracking, analyzing shopping habits to optimize in-store experiences.
+- Developed Hyper-Personalized Customer Experiences and Dynamic Pricing Models to increase sales and customer satisfaction.
+- Built AI-Powered Chatbots and Virtual Assistants to handle customer queries and improve service efficiency.
+- Developed Customer Lifetime Value Prediction models to identify valuable customers.
+- Designed an AI YouTube Promotion Tool that optimizes video content delivery based on viewer behavior.
+
+**Tech stack:** Python | TensorFlow | Keras | FastAPI | GCP | NLP | Chatbot Development
+
+---
+
+### 03. Cybersecurity (UK)
+- Led the development of an AI system for False-Positive Reduction in threat detection systems.
+- Worked on Clone Website Detection, Suspicious Script Analysis, and Behavior-Based Malware Detection.
+- Designed a system for Overall Risk Scoring (0–100) and conducted Industry-Based Risk Comparison.
+- Built an AI-Based Threat Prediction system that identifies anomalies and predicts potential breaches.
+- Conducted Credential Leak Analysis to ensure data privacy.
+
+**Tech stack:** Python | Scikit-Learn | TensorFlow | Keras | OpenCV | GCP | NLP | FastAPI | Cloud Security Tools
+
+---
+
+### 04. OCR Recognition for UK School (Secondary Level)
+- Developed an OCR Grading System to compare answer sheets with marking scheme PDFs for subjects like Maths, English, and Science.
+- Automated grading of graphs, multiple-choice questions, written answers, and mathematical equations, reducing time spent on manual evaluations by **40%**.
+
+**Tech stack:** Python | OpenCV | Tesseract OCR | TensorFlow | PyTorch | HuggingFace
+
+---
+
+## PERSONAL PROJECTS
+
+### [Resume Categorization System](https://github.com/Dhilshan2000/Resume-Categorization-Using-Machine-Learning.git)
+- Developed a scalable Resume Categorization System to categorize resumes into specific job roles, preprocess text data, and create an interactive web app for users to upload and organize categorized resumes.
+
+**Tech stack:** Streamlit | Pandas | Pickle | ML Models | docx2pdf | pypdf
+
+---
+
+### [AI Web Scraper – Scrape ANYTHING](https://github.com/Dhilshan2000/AI-Web-Scraper_Use-AI-To-Scrape-ANYTHING.git)
+- Developed an AI-powered web scraper using Streamlit, Selenium, BeautifulSoup, and LangChain, enabling users to scrape and parse website content with dynamic AI-driven extraction based on custom queries.
+
+**Tech stack:** Python | Selenium | BeautifulSoup | LangChain | Ollama | ML Models
+
+---
+
+### [Rainfall Prediction Using Python & MLFlow](https://github.com/Dhilshan2000/Rainfall-Prediction-Using-Python-MLFlow.git)
+- Developed a Rainfall Prediction application using Flask, MLflow, and machine learning models to predict rainfall based on meteorological data, providing real-time predictions via a user-friendly web interface.
+
+**Tech stack:** Flask | MLflow | Pandas | ML Models
+
+---
+
+### [Agentic Climate Early Warning System for Sri Lanka](https://github.com/Dhilshan2000/Final-year-research.git)
+- Developed a multi-horizon precipitation forecasting model using Spatio-Temporal Graph Convolutional Networks to predict rainfall 1–7 days ahead.
+- Aggregated station-level forecasts to district-level risk classifiers for flood/drought predictions.
+- Implemented autonomous alerting with SHAP-based explanations for district-level decision-making.
+
+**Tech stack:** Python | Streamlit | ML Models
+
+---
+
+### [Chat with Multiple PDFs – LangChain App](https://github.com/Dhilshan2000/Chat-with-Multiple-PDFs_LangChain-App-in-Python.git)
+- Developed a MultiPDF Chat App that uses a language model to answer questions based on the content of multiple PDFs, leveraging text extraction, chunking, and similarity matching.
+
+**Tech stack:** LangChain | FAISS | pypdf | OpenAI API | HuggingFace API | ML Models
+
+For more projects and information: [github.com/Dhilshan2000](https://github.com/Dhilshan2000?tab=repositories)
+
+---
 
 ## EDUCATION
-- ### BSc (Hons) in Data Science | Expected Graduation: December, 2025
+
+- ### BSc (Hons) in Data Science | 2022 – 2025
   National Innovation Centre (NIBM), Colombo, Sri Lanka (Affiliated with Coventry University, UK)
-- ### DevOps Foundation Program | 2024
-  NetXperts Training Center, Negombo, Sri Lanka
-- ### Higher National Diploma in Data Science | 2023 - 2024
-  National Innovation Centre (NIBM), Colombo, Sri Lanka
-- ### Advanced Diploma in Data Science | 2022
-  National Innovation Centre (NIBM), Colombo, Sri Lanka
+  **Overall Classification: Second Class, Upper Division**
 
-## PROJECTS
-### [Brain Stroke Prediction WebApp](https://github.com/Dhilshan2000/Brain-Stroke-Prediction-Using-Machine-Learning-with-Flask-and-Python.git)
-- This project is a Flask-based web application designed to predict the likelihood of a stroke in individuals using
-  machine learning.
-- The model uses various health-related inputs such as age, gender, blood glucose level, BMI, and lifestyle
-  factors like smoking status and work type to predict stroke risk.
-- The WebApp displays whether the user is "Likely" or "Not Likely" to have a stroke.
-- The project showcases proficiency in Machine Learning, Frontend Development, and Backend Processing,
-  delivering an innovative solution for predicting stroke with a 95% accuracy.
-  
-#### Tech stack :
-- Flask, Bootstrap, Pandas, NumPy, ML Models, Joblib, HTML/CSS
-
-
-### [Multiple Disease Prediction WebApp](https://github.com/Dhilshan2000/Multiple-Disease-Prediction-WebApp-System-with-Streamlit-and-Python.git)
-- This project is a Multiple Disease Prediction System built using Python, Streamlit, and Machine Learning
-  models. It provides an easy-to-use web interface for predicting the likelihood of three different diseases:
-  Diabetes : 77% Accuracy , Heart Disease : 82% Accuracy & Parkinson's Disease : 88% Accuracy.
-- Provided a valuable tool for individuals to assess their risk of three major diseases based on health data.
-- Enabled easy deployment and accessibility of the disease prediction models through a web application
-  interface.
-- The project showcases proficiency in Machine Learning, Frontend Development, and Backend Processing,
-  delivering an innovative solution for predicting stroke.
-  
-#### Tech stack :
-- Streamlit, Pickle, Pandas, NumPy, ML Models
-
-
-### [Fruits and Vegetables Image Recognition WebApp](https://github.com/Dhilshan2000/Fruits-and-Vegetables-Image-Recognition.git)
-- Developed an image classification system to recognize different fruits and vegetables using a deep learning
-  model built with TensorFlow, integrated with a user-friendly web interface built using Streamlit.
-- The model processes the uploaded image, performs inference, and predicts the most likely category (fruit or
-  vegetable) using image pre-processing and classification with a 79% Accuracy.
-- Developed an interactive web application using Streamlit, where users can upload images and get predictions
-  for the type of fruit or vegetable.
-  
-#### Tech stack :
-- Streamlit, Streamlit, .H5, NumPy, ML Models
-  
-For more Projects and Information available at : [github.com/Dhilshan](https://github.com/Dhilshan2000?tab=repositories)
+---
 
 ### CERTIFICATIONS
+
 -  [Generative AI Fundamentals, Databricks](https://credentials.databricks.com/ed12614a-6b4c-4de7-8966-eb7334133183#acc.tpJ8wVcg)
 -  [Data Science Orientation, IBM](https://www.credly.com/badges/7df1384f-dbf6-4f45-97e7-a86dbd43c699/linked_in_profile)
 -  [Introduction to Generative AI, Google](https://www.cloudskillsboost.google/public_profiles/8a13e309-1831-46e2-8ff3-033718035ba5/badges/11827153?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
 -  [CNNs with TensorFlow : Basics of Machine Learning, Coursera](https://www.coursera.org/account/accomplishments/certificate/E2PT6ZCTJYRY)
 -  [Exploratory Data Analysis for Machine Learning, IBM](https://www.coursera.org/account/accomplishments/certificate/QWHXD9KC3Y62)
 
+---
 
-### REFERENCES
+## LANGUAGES
 
-01. **Mrs. Akshila Anurangi**  
-   Senior Manager – Senior Data Scientist, Digital Innovations - Softlogic Life Insurance PLC  
-   Email: [akshila.anurangi@softlogiclife.lk](mailto:akshila.anurangi@softlogiclife.lk)  
-   Phone: +94 71 615 6811
+- English (Fluent)
+- Tamil (Native)
+- Sinhala (Conversational)
 
-02. **Dr. Achala Pallegedara**  
-   Senior Lecturer, Faculty of Engineering - University of Peradeniya  
-   Email: [achala@eng.pdn.ac.lk](mailto:achala@eng.pdn.ac.lk)  
-   Phone: +94 71 893 1975
+---
 
+## REFERENCES
+
+01. **Sanjeth Srikathirkamanathan**
+    Assistant Director, AI Data & Digital – Acuity Analytics
+    Tel: +94 11 235 6295 | Mobile: +94 75 571 8427
+    Email: [sanjeth.srikathirkamanathan@acuityanalytics.com](mailto:sanjeth.srikathirkamanathan@acuityanalytics.com)
+    Level 32, West Tower, World Trade Center, Echelon Square 1, Colombo 01, Sri Lanka
+
+02. **Dhushaker Yogeswaran**
+    Senior Systems Engineer – IFS R&D International
+    Mobile: +94 76 838 1848
+    Email: [dhushiymost@gmail.com](mailto:dhushiymost@gmail.com)
+    Level 18, Orion Towers, 736 Dr Danister De Silva Mawatha, Colombo 09, Sri Lanka
 
