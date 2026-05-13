@@ -1,7 +1,11 @@
+<p align="center">
+  <img src="assets/img/Ariwalagan_Dhilshan02.png" width="180" style="border-radius: 50%;" />
+</p>
+
 # Associate AI/ML Engineer
 
 📧 [dhilshanroney@gmail.com](mailto:dhilshanroney@gmail.com) | 📞 +94 76 332 2617 | 🏠 Colombo, Sri Lanka  
-ℹ️ [LinkedIn](www.linkedin.com/in/ariwalagan-dhilshan-406bb6225) | 🌐 [Portfolio](https://dhilshan2000.github.io/portfolio/) | 👾 [GitHub](https://github.com/Dhilshan2000)
+ℹ️ [LinkedIn](https://www.linkedin.com/in/ariwalagan-dhilshan-406bb6225) | 🌐 [Portfolio](https://dhilshan2000.github.io/portfolio/) | 👾 [GitHub](https://github.com/Dhilshan2000)
 
 ---
 
@@ -63,7 +67,7 @@ Driven Data Science graduate with hands-on experience as an AI/ML Engineer Inter
 - Developed an AI system for detecting the status of cashier drawers (opened/closed) and integrated it with the Point of Sale system.
 - Detecting unrelated behavior between Customers and Cashiers to improve supermarket security.
 
-**Tech stack:** Python, OpenCv, TensorFlow, Keras, FastAPI, POS Integration, Ultralytics YOLO
+**Tech stack:** Python, OpenCV, TensorFlow, Keras, FastAPI, POS Integration, Ultralytics YOLO
 
 ---
 
@@ -146,13 +150,13 @@ For more projects and information: [github.com/Dhilshan2000](https://github.com/
 
 ---
 
-### CERTIFICATIONS
+## CERTIFICATIONS
 
--  [Generative AI Fundamentals, Databricks](https://credentials.databricks.com/ed12614a-6b4c-4de7-8966-eb7334133183#acc.tpJ8wVcg)
--  [Data Science Orientation, IBM](https://www.credly.com/badges/7df1384f-dbf6-4f45-97e7-a86dbd43c699/linked_in_profile)
--  [Introduction to Generative AI, Google](https://www.cloudskillsboost.google/public_profiles/8a13e309-1831-46e2-8ff3-033718035ba5/badges/11827153?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
--  [CNNs with TensorFlow : Basics of Machine Learning, Coursera](https://www.coursera.org/account/accomplishments/certificate/E2PT6ZCTJYRY)
--  [Exploratory Data Analysis for Machine Learning, IBM](https://www.coursera.org/account/accomplishments/certificate/QWHXD9KC3Y62)
+- [Generative AI Fundamentals, Databricks](https://credentials.databricks.com/ed12614a-6b4c-4de7-8966-eb7334133183#acc.tpJ8wVcg)
+- [Data Science Orientation, IBM](https://www.credly.com/badges/7df1384f-dbf6-4f45-97e7-a86dbd43c699/linked_in_profile)
+- [Introduction to Generative AI, Google](https://www.cloudskillsboost.google/public_profiles/8a13e309-1831-46e2-8ff3-033718035ba5/badges/11827153?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
+- [CNNs with TensorFlow: Basics of Machine Learning, Coursera](https://www.coursera.org/account/accomplishments/certificate/E2PT6ZCTJYRY)
+- [Exploratory Data Analysis for Machine Learning, IBM](https://www.coursera.org/account/accomplishments/certificate/QWHXD9KC3Y62)
 
 ---
 
@@ -168,7 +172,7 @@ For more projects and information: [github.com/Dhilshan2000](https://github.com/
 
 01. **Sanjeth Srikathirkamanathan**
     - Position: Assistant Director, AI Data & Digital – Acuity Analytics
-    - Tel: +94 11 235 6295, Mobile: +94 75 571 8427
+    - Tel: +94 11 235 6295 | Mobile: +94 75 571 8427
     - Email: [sanjeth.srikathirkamanathan@acuityanalytics.com](mailto:sanjeth.srikathirkamanathan@acuityanalytics.com)
     - Address: Level 32, West Tower, World Trade Center, Echelon Square 1, Colombo 01, Sri Lanka
 
