@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/img/Ariwalagan_Dhilshan02.png" width="180" style="border-radius: 50%;" />
+  <img src="assets/img/D_Image.png" width="180" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">Associate AI/ML Engineer</h1>
